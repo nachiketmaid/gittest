@@ -1,0 +1,6 @@
+require:
+  - ./cr_probe.rb
+Probe/Facts:
+  Enabled: true
+AllCops:
+  NewCops: disable
