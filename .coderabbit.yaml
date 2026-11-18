@@ -1,0 +1,13 @@
+reviews:
+  tools:
+    eslint:
+      enabled: true
+    markdownlint:
+      enabled: true
+    phpstan:
+      enabled: true
+      level: "1"
+    pylint:
+      enabled: true
+    sqlfluff:
+      enabled: true
